@@ -2,8 +2,8 @@
 # aritmatika 
 
 # belajar infutan
-intan = input("masukan kata : ")
-print("isi dari intan: ", ilham,"bertipe data :",type (ilham))
+ilham = input("masukan kata : ")
+print("isi dari ilham: ", ilham,"bertipe data :",type (ilham))
 
 # belajar aritmatika dasar 
 x = 4
